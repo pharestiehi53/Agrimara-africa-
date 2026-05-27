@@ -1,0 +1,15 @@
+{
+  "name": "Agrimara Africa",
+  "short_name": "Agrimara",
+  "start_url": "/Agrimara-africa-/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a5d1a",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/1a5d1a/ffffff?text=AA",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
